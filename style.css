@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+#loginto{
+    float: none;
+}
+#logo{
+    width: 100px;
+}
+#login{
+    margin-top: 20px;
+    width: 50%;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+#name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ad{
+    color: white;
+}
+#ad1{
+    color: white;
+    margin-bottom: 15px;
+}
+#logout{
+    float:right;
+}
+#room{
+    margin-top: 20px;
+    width: 50%;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+#trending{
+    color: white;
+}
+#SendMessages{
+    bottom:0px;
+    position:fixed;
+    text-align: center;
+    width: 100%;
+}
+#send{
+    margin-top: 20px;
+    width: 50%;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+#message{
+    margin:10px auto;
+    width: 80%;
+}
+#tick{
+    width: 30px;
+    height: 30px;
+}
